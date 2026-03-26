@@ -24,24 +24,25 @@ The goal is to prepare the data for analyzing whether a client will subscribe to
 
 ## 📂 Project Structure
 bank-marketing-data-cleaning-pandas/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ └── 01_data_cleaning.ipynb
-│
-├── src/
-│ └── data_cleaning.py
-│
-├── docs/
-│ └── data_dictionary.md
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
+ ```
+ │
+ ├── data/
+ │ ├── raw/
+ │ └── processed/
+ │
+ ├── notebooks/
+ │ └── 01_data_cleaning.ipynb
+ │
+ ├── src/
+ │ └── data_cleaning.py
+ │
+ ├── docs/
+ │ └── data_dictionary.md
+ │
+ ├── main.py
+ ├── requirements.txt
+ └── README.md
+```
 ---
 
 ##  How to Run This Project
