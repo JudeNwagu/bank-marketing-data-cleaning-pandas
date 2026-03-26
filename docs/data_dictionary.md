@@ -1,5 +1,5 @@
 
-# 📘 Data Dictionary — Bank Marketing Dataset
+# 📘 Data Dictionary  Bank Marketing Dataset
 
 This document describes all variables in the cleaned dataset used for analysis and reporting.
 
