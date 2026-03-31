@@ -92,12 +92,12 @@ The cleaned dataset is used in Power BI for:
 
 ---
 
-##  Tools Used
+##  Tech Stack Used
 
-- Python  
-- Pandas  
-- NumPy  
-- Power BI  
+- Language: Python  
+- Libraries: Pandas, NumPy  
+- Visualization: Power BI  
+- Version Control: Git 
 
 ---
 
